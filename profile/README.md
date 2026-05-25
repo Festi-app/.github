@@ -1,4 +1,4 @@
-<img width="1919" height="1073" alt="image" src="https://github.com/user-attachments/assets/9df647a9-3f04-4623-a821-d0c67111dc8b" /># Festi
+# Festi
 
 Festi는 대학 축제 운영을 위한 통합 플랫폼입니다.
 
